@@ -20,6 +20,14 @@ int main()
 	for (int i : v2)
 		cout << i;
 
+	doSomething();
+
 	_getch();
 	return 0;
+}
+
+
+void doSomething()
+{
+	cout << "Hello World!" << endl;
 }
