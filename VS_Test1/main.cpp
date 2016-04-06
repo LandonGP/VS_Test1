@@ -30,4 +30,5 @@ int main()
 void doSomething()
 {
 	cout << "Hello World!" << endl;
+	int num1 = 3;
 }
